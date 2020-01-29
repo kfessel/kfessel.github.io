@@ -1,5 +1,5 @@
-# Welcom choose 
-[some JS-helpers](http://fesselk.github.io/JS-helpers/)
+# Welcome choose 
+[some JS-helpers](http://kfessel.github.io/JS-helpers/)
 
 [Howto setup Pages](https://pages.github.com/) [documentation](https://help.github.com/categories/github-pages-basics/)
 
