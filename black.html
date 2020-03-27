@@ -1,5 +1,13 @@
 <html>
+<head>
+    <title>Black Page</title>
+</head>
 <body style="background-color:black">
-
+<center>
+   <input type="color" value="black"
+          title="select color double click selector to undisplay" 
+          onchange="document.getElementsByTagName('body')[0].style['background-color']=this.value;document.title=this.value+' Page'" 
+          ondblclick="this.style.display='none'" />
+</center>
 </body>
 </html>
