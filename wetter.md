@@ -7,7 +7,7 @@ Wettervorhersage (wind):
 
 * [windy](https://www.windy.com/52.222/11.651?52.216,11.662,15)
 * [windfinder](https://de.windfinder.com/forecast/magdeburg_barleber_see)
-* [windguru.cz](https://www.windguru.cz/1089962)
+* [windguru.cz](https://www.windguru.cz/1089962) [map](https://www.windguru.cz/map/?lat=52.22&lon=11.66&zoom=12)
 
 Wassertemperatur
 * [barleber-see.de](https://barleber-see.de/)
