@@ -1,0 +1,20 @@
+alias.ci commit
+alias.cia commit --amend
+alias.co checkout
+alias.br branch
+alias.st status
+alias.di diff
+alias.up fetch --all
+alias.a add -i
+alias.tn !git tag t-`git branch --show-current`-`date -u +%Y-%m-%d_%H-%M`
+alias.pr !sh -c "git fetch $1 refs/pull/$2/head && git checkout FETCH_HEAD"
+alias.rbm rebase -i o/master
+alias.rbc rebase --continue
+alias.log5 log HEAD~5..
+alias.log15 log HEAD~15..
+alias.fpush push --force-with-lease
+alias.pushf push --force-with-lease
+alias.ff merge --ff-only
+alias.log15 log HEAD~15..
+alias.log5 log HEAD~5..
+alias.fpush push --force-with-lease
