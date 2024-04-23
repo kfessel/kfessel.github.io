@@ -18,7 +18,8 @@ Wettervorhersage (wind):
 
 Wassertemperatur
 * [barleber-see.de](https://barleber-see.de/)
-* [wassertemperatur.org-sachsen-anhalt](/http://www.wassertemperatur.org/deutschland/sachsen-anhalt/)
+* [wassertemperatur.org-sachsen-anhalt](http://www.wassertemperatur.org/deutschland/sachsen-anhalt/)
+* [wannsee](https://www.wassertemperatur.org/wannsee/)
 
 Gewässerqualität
 * [md](https://www.geofachdatenserver.de/de/badegewaesserkarte.html)
