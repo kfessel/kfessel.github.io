@@ -21,3 +21,8 @@ Wassertemperatur
 
 Gewässerqualität
 * [md](https://www.geofachdatenserver.de/de/badegewaesserkarte.html)
+
+Wetter allgemein
+* [Wetterkontor](https://www.wetterkontor.de/)
+* [Meteox](https://www.meteox.com/) Vorhersage [Sat24](https://www.sat24.com/) satelitenbilder 
+* [Kachelmann](https://kachelmannwetter.com/)
