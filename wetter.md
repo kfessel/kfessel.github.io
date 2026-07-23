@@ -13,6 +13,7 @@ Wettervorhersage (wind):
 * [windfinder](https://de.windfinder.com/forecast/magdeburg_barleber_see)
 * [windguru.cz](https://www.windguru.cz/1089962) [map](https://www.windguru.cz/map/?lat=52.22&lon=11.66&zoom=12)
 * [wisuki](https://de.wisuki.com/country/de) - some spots
+* [meteoblue windkarte 3Tage](https://www.meteoblue.com/en/weather/maps/?utm_source=weather_widget&utm_medium=linkus&utm_content=map&utm_campaign=Weather%2BWidget#coords=11/52.162/11.6449&map=wind~hourly~ICOND2~10%20m%20above%20gnd~none)
 
 Wassertemperatur
 * [barleber-see.de](https://barleber-see.de/)
